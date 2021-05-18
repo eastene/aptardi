@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import re
 import os
 import sys
@@ -1966,6 +1964,3 @@ def main():
         pass
     if verbose:
         time_now('', finishing = True) 
-
-if __name__ == '__main__':
-    main()
